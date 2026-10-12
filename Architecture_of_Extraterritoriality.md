@@ -158,13 +158,13 @@ Beyond cloud rules, European nations have updated their offensive and defensive 
 
 China has not limited itself to diplomatic protest. It has built a near-symmetrical set of its own instruments:
 
-| **US Legal Mechanism**                   | **Chinese Symmetrical Counterpart**                                                               |
-|------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Commerce Dept Entity List (EAR)          | Unreliable Entity List (MOFCOM provisions, Sept 2020)                                             |
-| Export Control Reform Act 2018           | PRC Export Control Law (in force 1 Dec 2020)                                                      |
-| Secondary Sanctions (IEEPA / CAATSA)     | Anti-Foreign Sanctions Law (AFSL, June 2021)                                                      |
-| EU / Foreign Blocking Statutes           | Rules on Counteracting Unjustified Extraterritorial Application of Foreign Legislation (Jan 2021) |
-| Foreign Direct Product Rule & De Minimis | MOFCOM Announcement No. 61 (Dual-Use Rare Earths, Oct 2025)                                       |
+Each major US instrument now has a Chinese counterpart:
+
+- **Commerce Dept Entity List (EAR) →** Unreliable Entity List (MOFCOM provisions, Sept 2020)
+- **Export Control Reform Act 2018 →** PRC Export Control Law (in force 1 Dec 2020)
+- **Secondary Sanctions (IEEPA / CAATSA) →** Anti-Foreign Sanctions Law (AFSL, June 2021)
+- **EU / Foreign Blocking Statutes →** Rules on Counteracting Unjustified Extraterritorial Application of Foreign Legislation (Jan 2021)
+- **Foreign Direct Product Rule & De Minimis →** MOFCOM Announcement No. 61 (Dual-Use Rare Earths, Oct 2025)
 
 A prominent example is MOFCOM Announcement No. 61 (9 October 2025), which claimed jurisdiction over foreign-made items containing as little as 0.1% Chinese-origin controlled rare earths by value, or manufactured using Chinese rare-earth refining technology. It is a direct transplant of the US de minimis and FDPR concepts. \[36\] Its extraterritorial provisions were suspended for one year under the US–China arrangement of 30 October 2025; that suspension lapses on 10 November 2026. [\[37\]](https://cms.law/en/chn/legal-updates/china-expands-reporting-regime-for-export-control-and-adds-14-eu-entities-to-control-list)
 
@@ -196,13 +196,11 @@ The “lawfare” thesis is intuitive, and it is not entirely wrong. But reducin
 
 None of the foregoing is legal advice, and the right response differs for every organization. But the four gateways, plus the procedural pressures that follow them, suggest a short set of questions that any board, general counsel or chief technology officer should be able to answer without hesitation. If an answer is “we don’t know”, that is the exposure.
 
-| **Gateway**             | **Where the Law Attaches**                                                                  | **Questions You Should Be Able to Answer**                                                                                                                                                                                            |
-|-------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Financial Clearing      | Any dollar payment clearing through New York correspondent banks.                           | Which of our payment flows touch US dollars, and to whom? Are the counterparties screened against OFAC lists? For politically sensitive supply chains, could we settle in another currency, and what would that cost?                 |
-| Cloud & Data            | Data held by a provider subject to US jurisdiction, wherever the servers sit.               | Who holds the encryption keys to our data? Could our provider decrypt and produce it in response to a US order without telling us? What do our contracts say about notice and the right to challenge?                                 |
-| Technology & Components | Products with more than 10–25% controlled US content or made with US software or equipment. | Do we know the US-origin share of each product, down to the component? Have we screened the same bill of materials against China’s export-control and Unreliable Entity lists? Who would lose access first if a license were revoked? |
-| Corporate Listings      | US ADRs, SEC registration, or US subsidiaries.                                              | What does the US listing earn us in capital cost, and what does it cost us in FCPA accounting exposure? Are US operations ring-fenced? If a resolution were needed, could it be reached at home under a domestic DPA regime?          |
-| Executive Travel        | Transit through US airports by senior leadership.                                           | Has counsel assessed whether any live investigation touches our executives? Do executives have independent counsel separate from the company’s? Who decides whether a trip goes ahead?                                                |
+- **Financial Clearing.** Where the law attaches: any dollar payment clearing through New York correspondent banks. Ask: Which of our payment flows touch US dollars, and to whom? Are the counterparties screened against OFAC lists? For politically sensitive supply chains, could we settle in another currency, and what would that cost?
+- **Cloud & Data.** Where the law attaches: data held by a provider subject to US jurisdiction, wherever the servers sit. Ask: Who holds the encryption keys to our data? Could our provider decrypt and produce it in response to a US order without telling us? What do our contracts say about notice and the right to challenge?
+- **Technology & Components.** Where the law attaches: products with more than 10–25% controlled US content or made with US software or equipment. Ask: Do we know the US-origin share of each product, down to the component? Have we screened the same bill of materials against China’s export-control and Unreliable Entity lists? Who would lose access first if a license were revoked?
+- **Corporate Listings.** Where the law attaches: US ADRs, SEC registration, or US subsidiaries. Ask: What does the US listing earn us in capital cost, and what does it cost us in FCPA accounting exposure? Are US operations ring-fenced? If a resolution were needed, could it be reached at home under a domestic DPA regime?
+- **Executive Travel.** Where the law attaches: transit through US airports by senior leadership. Ask: Has counsel assessed whether any live investigation touches our executives? Do executives have independent counsel separate from the company’s? Who decides whether a trip goes ahead?
 
 The questions are deliberately plain. If this paper has one point, it is that US law is not uniquely sinister; it is uniquely well-connected, and the connections can be known. An organization that can answer the questions above has mapped its gateways; one that cannot is relying on geography to protect it, and geography has not done that job for some time.
 
